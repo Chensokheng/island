@@ -71,6 +71,7 @@ export default function Header() {
             Welcome to <br />
             WeWe<span className={classes.colorText}>Plastics.</span>
           </h1>
+          {/* <Scroll to="place-to-visit" smooth={true}> */}
           <Scroll to="place-to-visit" smooth={true}>
             <IconButton>
               <ExpandMoreIcon className={classes.goDown} />
