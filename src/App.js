@@ -5,8 +5,6 @@ import Header from './components/Header';
 import PlaceToVisit from './components/PlaceToVisit';
 import PlaceToVisit2 from './components/PlaceToVisit2';
 
-
-
 const useStyles = makeStyles((theme) => ({
   root: {
     minHeight: '100vh',
